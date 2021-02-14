@@ -12,3 +12,10 @@ CREATE TABLE burgers (
 
 );
 
+INSERT INTO burger_name (name)
+VALUES
+("The Jerry Berry Burger"),
+("The Savy Avi Cheesy Burger"),
+("The High Misty Munchie Burger");
+
+
